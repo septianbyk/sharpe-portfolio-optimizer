@@ -49,6 +49,12 @@ pip install yfinance numpy pandas scipy
 
 ## Output
 
+### Efficient Frontier (`porto.py`)
+
+![Efficient Frontier](efficient_frontier.png)
+
+The gold star marks the max-Sharpe portfolio found via SLSQP optimization. The green diamond marks the lowest-volatility portfolio from 10,000 random simulations. Point color represents each portfolio's Sharpe ratio.
+
 ### Sample Terminal Output
 
 ![Terminal Output](Terminal.png)
