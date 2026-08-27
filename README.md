@@ -1,4 +1,4 @@
-# Sharpe-Frontier
+# Sharpe Portfolio Optimizer
 
 Sharpe ratio screener & max-Sharpe portfolio optimizer for any ticker on the market — powered by `yfinance`.
 
