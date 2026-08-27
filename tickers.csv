@@ -1,0 +1,52 @@
+ticker,category,label
+VT,World Broad Index,Vanguard Total World Stock
+ACWI,World Broad Index,MSCI ACWI (All Country World)
+URTH,World Broad Index,MSCI World (Developed Markets)
+ACWX,World Broad Index,MSCI ACWI ex-US
+VEU,World Broad Index,Vanguard FTSE All-World ex-US
+VXUS,World Broad Index,Vanguard Total International Stock
+EWJ,Developed Market Country,Japan
+EWG,Developed Market Country,Germany
+EWQ,Developed Market Country,France
+EWU,Developed Market Country,UK
+EWL,Developed Market Country,Switzerland
+EWC,Developed Market Country,Canada
+EWA,Developed Market Country,Australia
+EWD,Developed Market Country,Sweden
+EWN,Developed Market Country,Netherlands
+EWP,Developed Market Country,Spain
+EWI,Developed Market Country,Italy
+EWK,Developed Market Country,Belgium
+IXC,Global Sector,Global Energy
+IXG,Global Sector,Global Financials
+IXJ,Global Sector,Global Healthcare
+IXN,Global Sector,Global Technology
+IXP,Global Sector,Global Telecommunications
+MXI,Global Sector,Global Materials
+EXI,Global Sector,Global Industrials
+KXI,Global Sector,Global Consumer Staples
+RXI,Global Sector,Global Consumer Discretionary
+JXI,Global Sector,Global Utilities
+REET,Global Sector,Global Real Estate
+SOXX,World Thematic,Semiconductors
+ICLN,World Thematic,Clean Energy
+TAN,World Thematic,Solar Energy
+FAN,World Thematic,Wind Energy
+URA,World Thematic,Uranium & Nuclear
+LIT,World Thematic,Lithium & Battery Tech
+SKYY,World Thematic,Cloud Computing
+HACK,World Thematic,Cybersecurity
+FINX,World Thematic,Fintech
+BOTZ,World Thematic,Robotics & AI
+IRBO,World Thematic,Robotics & AI (iShares)
+ARKK,World Thematic,Disruptive Innovation
+MOO,World Thematic,Global Agriculture
+CGW,World Thematic,Global Water Resources
+PICK,World Thematic,Global Metals & Mining
+GNR,World Thematic,Global Natural Resources
+COPX,World Thematic,Global Copper Miners
+SIL,World Thematic,Global Silver Miners
+GDX,World Thematic,Global Gold Miners
+HERO,World Thematic,Video Games & Esports
+IBUY,World Thematic,Global E-commerce
+KOMP,World Thematic,Next Gen Internet
